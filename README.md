@@ -15,9 +15,9 @@ The solution to this problem is counterintuitive. After pulling out a gold coin 
 To run this script, you will need Python 3 installed on your machine. You can download Python 3 from the official website: https://www.python.org/downloads/
 
 ## Usage
-To run the script, simply navigate to the directory containing the "two_coins_three_jars.py" file and execute the following command in your terminal:
+To run the script, simply navigate to the directory containing the "bertrands_box_sim.py" file and execute the following command in your terminal:
 
-`python two_coins_three_jars.py`
+`python bertrands_box_sim.py`
 
 The script will generate 100,000 random attempts to pick two coins from the three boxes and will calculate the probability of pulling out a gold coin first and the probability of pulling out a second gold coin after pulling out a first.
 
