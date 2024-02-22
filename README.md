@@ -40,9 +40,6 @@ Actual chance of second coin being Gold: 66.66%
 
 The results show that the probability of pulling out a gold coin first is roughly 50%, as expected. After pulling out a gold coin first, the probability of pulling out a second gold coin is roughly 66.66%, also as expected.
 
-## Why I Built This
-I built this project because I am passionate about coding and I love math. I am an entry-level software engineer with skills in full-stack development and data science. This project allowed me to practice my Python skills and apply my knowledge of probability and statistics to a real-world problem.
-
 ## Future Improvements
 There are a few ways this project could be improved in the future:
 
